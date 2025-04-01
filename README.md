@@ -1,9 +1,29 @@
-- 👋 Hi, I’m Sora aka Gujar Anoop Jagram.
-- 👀 I’m interested in The growing technology and
-  would like to learn more and more.
-- 🌱 I’m currently persuing Diploma in networking and cyber Security.
+👋 Hi, I'm Sora (aka Gujar Anoop Jagram)
 
-<!---
-Sora769/Sora769 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 About Me
+
+I'm passionate about the ever-evolving world of technology and eager to keep learning and growing in the field of networking and cybersecurity.
+
+🎓 Education
+
+✅ Certificate in Software Engineering – Completed
+
+✅ Diploma in Networking and Cybersecurity – Completed
+
+📖 Bachelor of Science in Networking and Cybersecurity – Currently Pursuing
+
+
+🚀 Interests
+
+Cybersecurity & Ethical Hacking
+
+Networking & System Administration
+
+Software Development & Automation
+
+Emerging Technologies in IT
+
+
+📫 Let's Connect!
+
+Feel free to reach out and collaborate on projects related to cybersecurity, networking, or software development.
